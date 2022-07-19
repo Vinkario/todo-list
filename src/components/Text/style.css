@@ -1,0 +1,15 @@
+.text-wrapper--no-checked{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+.text-wrapper--checked{
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: line-through;
+  color: gray;
+}
+
+
+
+
